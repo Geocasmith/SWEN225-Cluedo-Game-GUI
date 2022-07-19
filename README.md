@@ -6,5 +6,6 @@ In this university project, we worked in teams of four to create the Cluedo boar
 2. Run the Main class (src/Main.java)
 3. Follow the instructions given in the GUI
 
-##Movement 
+## Movement 
+
 You can move your character with the arrow keys after you have spun the dice. 
